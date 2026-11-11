@@ -1,46 +1,69 @@
-# 💫 About Me:
-Hi, I’m Divakar Upadhyay 👋<br>Currently building my own game engine.<br>Learning OpenGL and graphics programming.<br>Passionate about C++ and game development.<br>Exploring modular systems and rendering techniques.
+<div align="center">
 
+# Hi, I'm Divakar 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divakar-upadhyay-33ba14300/)
+**Building my own game engine** · OpenGL & graphics programming · C++ · modular systems & rendering
 
-# 🌱 My Contribution Garden:
+<a href="https://www.linkedin.com/in/divakar-upadhyay-33ba14300/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="https://divakar-26.github.io/ASCIIWall/"><img src="https://img.shields.io/badge/ASCIIWall-live_wallpapers-0b0c12?style=flat-square&logo=github&logoColor=white" alt="ASCIIWall"></a>
+
+<br>
+
+<a href="https://divakar-26.github.io/ASCIIWall/?scene=koi">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divakar-26/ASCIIWall/main/assets/pond-light.svg">
+    <img width="100%" alt="My koi pond — the more I contribute, the more fish. Click to feed them." src="https://raw.githubusercontent.com/Divakar-26/ASCIIWall/main/assets/pond.svg">
+  </picture>
+</a>
+<sub>🐟 one koi for every bit of recent activity — <a href="https://divakar-26.github.io/ASCIIWall/?scene=koi">click the pond to feed them</a></sub>
+
+<br><br>
+
 <a href="https://divakar-26.github.io/ASCIIWall/?scene=garden">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divakar-26/ASCIIWall/main/assets/garden-light.svg">
-    <img alt="my contribution garden" src="https://raw.githubusercontent.com/Divakar-26/ASCIIWall/main/assets/garden.svg">
+    <img width="100%" alt="My contribution garden — a year of contributions grown as flowers" src="https://raw.githubusercontent.com/Divakar-26/ASCIIWall/main/assets/garden.svg">
   </picture>
 </a>
 
+<br><br>
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divakar-26/ASCIIWall/main/assets/sky-light.svg">
-  <img alt="my GitHub night sky" src="https://raw.githubusercontent.com/Divakar-26/ASCIIWall/main/assets/sky.svg">
+  <img width="49%" alt="My GitHub night sky — every star is a repo" src="https://raw.githubusercontent.com/Divakar-26/ASCIIWall/main/assets/sky.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divakar-26/ASCIIWall/main/assets/streak-light.svg">
+  <img width="49%" alt="My contribution streak campfire" src="https://raw.githubusercontent.com/Divakar-26/ASCIIWall/main/assets/streak.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divakar-26/ASCIIWall/main/assets/languages-light.svg">
-  <img alt="my top languages" src="https://raw.githubusercontent.com/Divakar-26/ASCIIWall/main/assets/languages.svg">
+  <img width="49%" alt="My top languages" src="https://raw.githubusercontent.com/Divakar-26/ASCIIWall/main/assets/languages.svg">
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divakar-26/ASCIIWall/main/assets/streak-light.svg">
-  <img alt="my contribution streak" src="https://raw.githubusercontent.com/Divakar-26/ASCIIWall/main/assets/streak.svg">
-</picture>
-
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divakar-26/ASCIIWall/main/assets/tide-light.svg">
-  <img alt="my contribution tide" src="https://raw.githubusercontent.com/Divakar-26/ASCIIWall/main/assets/tide.svg">
+  <img width="49%" alt="26 weeks of contributions as a tide" src="https://raw.githubusercontent.com/Divakar-26/ASCIIWall/main/assets/tide.svg">
 </picture>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Divakar-26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Divakar-26&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Divakar-26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br><br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Divakar-26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### Tech stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL">
+<img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake">
+<img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot">
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=FFDD54" alt="Python">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git">
+
+<br><br>
+
+<sub>widgets regrow every day from my real activity · made with <a href="https://github.com/Divakar-26/ASCIIWall">ASCIIWall</a></sub>
+
+</div>
