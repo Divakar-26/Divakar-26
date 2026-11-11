@@ -4,8 +4,6 @@
 
 **Building my own game engine** · OpenGL & graphics programming · C++ · modular systems & rendering
 
-<a href="https://www.linkedin.com/in/divakar-upadhyay-33ba14300/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="https://divakar-26.github.io/ASCIIWall/"><img src="https://img.shields.io/badge/ASCIIWall-live_wallpapers-0b0c12?style=flat-square&logo=github&logoColor=white" alt="ASCIIWall"></a>
-
 <br>
 
 <a href="https://divakar-26.github.io/ASCIIWall/?scene=koi">
